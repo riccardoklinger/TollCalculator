@@ -1,0 +1,13 @@
+.jimu-widget-demo div:first-child{
+  color: green;
+}
+.jimu-widget-demo div:nth-of-type(2) {
+  color: red;
+}
+.jimu-widget-demo input{
+margin-left: 10px;
+width: 200px;
+line-height: 30px;
+border-color:  #d9dde0;
+padding: 1px 10px;
+}
